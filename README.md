@@ -1,3 +1,1 @@
-learning python
-
-<3 greenbean
+print("i am dumb stupid idiot 👍")
